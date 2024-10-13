@@ -1,0 +1,60 @@
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\pro.exe
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\pro.deps.json
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\pro.runtimeconfig.json
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\pro.dll
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\pro.pdb
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\System.CommandLine.dll
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\obj\Debug\net6.0\pro.csproj.AssemblyReference.cache
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\obj\Debug\net6.0\pro.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\obj\Debug\net6.0\pro.AssemblyInfoInputs.cache
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\obj\Debug\net6.0\pro.AssemblyInfo.cs
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\obj\Debug\net6.0\pro.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\obj\Debug\net6.0\pro.csproj.CopyComplete
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\obj\Debug\net6.0\pro.dll
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\obj\Debug\net6.0\refint\pro.dll
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\obj\Debug\net6.0\pro.pdb
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\obj\Debug\net6.0\pro.genruntimeconfig.cache
+Y:\Groups\Group_1\גבאי מיכל\פרקטיקוד\Praktycode\Praktycode\obj\Debug\net6.0\ref\pro.dll
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\pro.exe
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\pro.deps.json
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\pro.runtimeconfig.json
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\pro.dll
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\pro.pdb
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\System.CommandLine.dll
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\cs\System.CommandLine.resources.dll
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\de\System.CommandLine.resources.dll
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\es\System.CommandLine.resources.dll
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\fr\System.CommandLine.resources.dll
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\it\System.CommandLine.resources.dll
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\ja\System.CommandLine.resources.dll
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\ko\System.CommandLine.resources.dll
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\pl\System.CommandLine.resources.dll
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\pt-BR\System.CommandLine.resources.dll
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\ru\System.CommandLine.resources.dll
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\tr\System.CommandLine.resources.dll
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\zh-Hans\System.CommandLine.resources.dll
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\bin\Debug\net6.0\zh-Hant\System.CommandLine.resources.dll
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\obj\Debug\net6.0\pro.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\obj\Debug\net6.0\pro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\obj\Debug\net6.0\pro.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\obj\Debug\net6.0\pro.AssemblyInfo.cs
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\obj\Debug\net6.0\pro.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\obj\Debug\net6.0\pro.csproj.CopyComplete
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\obj\Debug\net6.0\pro.dll
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\obj\Debug\net6.0\refint\pro.dll
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\obj\Debug\net6.0\pro.pdb
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\obj\Debug\net6.0\pro.genruntimeconfig.cache
+C:\Users\User\Desktop\פרקטיקוד\Praktycode\Praktycode\obj\Debug\net6.0\ref\pro.dll
